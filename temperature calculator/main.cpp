@@ -32,7 +32,7 @@ int main() {
 	cout << "Willkommen im Temperaturumrechner" << endl;
 	while (true) {
 
-		cout << "Voin welcher in welche Temperatur möchten Sie umwandeln? Geben Sie genau 2 Ziffern ein!" << endl;
+		cout << "Voin welcher in welche Temperatur mÃ¶chten Sie umwandeln? Geben Sie genau 2 Ziffern ein!" << endl;
 		cout << "Die erste Ziffer ist die Starteinheit und die zweite Ziffer die Umwandlungseinheit. " << endl;
 		cout << "[1]Kelvin / [2]Celsius / [3]Fahrenheit  " << endl;
 		cin >> eingabe;
